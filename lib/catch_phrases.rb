@@ -13,4 +13,5 @@ def link
   puts phrase
 end
   
-deg 
+def any_phrase
+  
